@@ -8,9 +8,9 @@ Steps to run the application:
    
 *once the necessary node_modules are generated proceed with step 4*
 
-5. expo start
-6. i - for ios simulator
-7. Use this test account:
+4. expo start
+5. i - for ios simulator
+6. Use this test account:
 - Email: test@gmail.com
 - Password: testtest
   
