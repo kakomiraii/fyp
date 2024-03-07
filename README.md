@@ -1,9 +1,13 @@
 This project is a task manager application created for my FYP. 
 
 Steps to run the application:
-1. expo start
-2. i - for ios simulator
-3. Use this test account:
+
+1. clone the repository
+2. run "npm -i"
+3. ng serve (this will generate the necessary node_modules)
+4. expo start
+5. i - for ios simulator
+6. Use this test account:
 - Email: test@gmail.com
 - Password: testtest
   
