@@ -4,10 +4,13 @@ Steps to run the application:
 
 1. clone the repository
 2. run "npm -i"
-3. ng serve (this will generate the necessary node_modules)
-4. expo start
-5. i - for ios simulator
-6. Use this test account:
+3. ng serve
+   
+*once the necessary node_modules are generated proceed with step 4*
+
+5. expo start
+6. i - for ios simulator
+7. Use this test account:
 - Email: test@gmail.com
 - Password: testtest
   
